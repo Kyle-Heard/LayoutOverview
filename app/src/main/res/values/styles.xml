@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NameStyle">
+        <item name="android:padding">@dimen/tv_LayoutPadding</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:textSize">@dimen/txt_Size</item>
+    </style>
+</resources>
